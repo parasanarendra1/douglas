@@ -1,0 +1,11 @@
+selenium
+pytest
+pytest-html
+webdriver-manager
+
+#to run all test files
+#pytest tests/ --html=report.html --self-contained-html
+
+#to run one test file
+#pytest tests/test_parfum_filter.py
+
